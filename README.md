@@ -11,7 +11,8 @@
   Pykidz that create challenge list and whenever you finish a problem you gain point or have interactive feature that make your browser or coding website more vibrant or more fun like adding pet or adding picture as randomize time as reward to make you want to do it even more.
 
 
-------------------------------------------------------DEPLOYMENT-VERSION-----------------------------------------------------
+------------------DEPLOYMENT-VERSION------------------
+
 
 #version 1: cannot host using local server school block port (1/4/26)
 
