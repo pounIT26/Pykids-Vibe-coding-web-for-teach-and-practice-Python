@@ -14,7 +14,8 @@ from flask import Flask, jsonify, send_from_directory
 from flask_socketio import SocketIO, emit, join_room
 import subprocess, sys, os, tempfile, threading, re, json
 
-app    = Flask(__name__, static_folder='static')
+app = Flask(__name__, static_folder='python_kids/static')
+
 app.config['SECRET_KEY'] = 'pythonkids2025'
 socketio = SocketIO(app, cors_allowed_origins="*", async_mode='eventlet', engineio_logger=False)
 
